@@ -45,6 +45,10 @@
 {
       "type": "shell",
       "inline": "sudo apt-get update -y"
+},
+	   {
+      "type": "shell",
+      "script": "install.sh"
 }
 
 	]
