@@ -11,3 +11,8 @@ The above mentioned softwares are installed through shell script.
 The customized image is encrypted through the AWS KMS key
 
 Packer version: 1.6.6
+
+Further improvements:
+1. Installing and configuring the database in separate instance or using RDS.
+2. Using Ansible to deploy the mediawiki configuration part.
+3. The Database secrets can be stored in AWS secrets manager or third part tools.
