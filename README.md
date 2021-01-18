@@ -9,3 +9,5 @@ Below are the softwares installed:
 
 The above mentioned softwares are installed through shell script.
 The customized image is encrypted through the AWS KMS key
+
+Packer version: 1.6.6
