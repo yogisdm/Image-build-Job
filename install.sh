@@ -13,3 +13,4 @@ sudo apt-get -y install mysql-client
 sudo apt-get -y install mysql-server-5.7
 
 sudo mv mediawiki-1.32.1 /var/www/html/mediawiki
+sudo systemctl restart apache2
